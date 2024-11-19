@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:raw_sapphire"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:raw_sapphire_block"
+  }
+}

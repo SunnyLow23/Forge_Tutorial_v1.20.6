@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:sapphire_block"
+    }
+  ],
+  "result": {
+    "id": "tutorialmod:sapphire",
+    "count": 9
+  },
+  "group": "sapphire"
+}
