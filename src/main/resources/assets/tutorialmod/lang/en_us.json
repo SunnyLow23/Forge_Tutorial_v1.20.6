@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.sapphire": "Sapphire",
+  "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.coin": "Copper Coin",
+
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}
