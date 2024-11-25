@@ -1,4 +1,6 @@
-// 1.20.6	2024-11-25T13:32:52.0324904	Recipes
+// 1.20.6	2024-11-26T00:48:52.0187225	Recipes
+c796744799ed1e1d7cc9bb6c2df40da8e55bf03b data/tutorialmod/advancements/recipes/misc/raw_sapphire.json
+264be7edc54da6d373036b3c120f0c9327fe5ee6 data/tutorialmod/advancements/recipes/misc/raw_sapphire_block.json
 ce0c5c2d658ee8a46d7b396372da234030a11643 data/tutorialmod/advancements/recipes/misc/sapphire.json
 fea3c0f372d7b785ad36a7737827bfe9120b9e0f data/tutorialmod/advancements/recipes/misc/sapphire_block.json
 affb01a8dd59e0aad665a156d0cdd3be844803d1 data/tutorialmod/advancements/recipes/misc/sapphire_from_blasting_deepslate_sapphire_ore.json
@@ -11,6 +13,8 @@ c70f313a7d457d709bb48cb547150a67ee92d75a data/tutorialmod/advancements/recipes/m
 a67c2b82021e3562c9eea5e8325c3d84418f0439 data/tutorialmod/advancements/recipes/misc/sapphire_from_smelting_nether_sapphire_ore.json
 871c86ebeee6ea4862813e4f71841ddd5076d436 data/tutorialmod/advancements/recipes/misc/sapphire_from_smelting_raw_sapphire.json
 2cdd66c14a40f0f9c9e73efd7b401f69fd20dc01 data/tutorialmod/advancements/recipes/misc/sapphire_from_smelting_sapphire_ore.json
+db25cf305c92b89794ca7ce140e77b40d6ebc7c0 data/tutorialmod/recipes/raw_sapphire.json
+2b5d30ccefec21bcd5467dc173608b0b2b296f1c data/tutorialmod/recipes/raw_sapphire_block.json
 07a871cea4ee1330f7f9c288c32ff2403d027924 data/tutorialmod/recipes/sapphire.json
 f07ce9d47282380c5a1c397146ebe3168add7ec8 data/tutorialmod/recipes/sapphire_block.json
 1a436de173ebab8eb3ec3ce09b61839283f6342d data/tutorialmod/recipes/sapphire_from_blasting_deepslate_sapphire_ore.json
